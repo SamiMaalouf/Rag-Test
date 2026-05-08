@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+    "gold": "yes",
+    "vanilla_answer": "Yes, Scott Derrickson and Ed Wood were of the same nationality. Both were American.",
+    "grag_style_answer": "Yes, Scott Derrickson and Ed Wood were of the same nationality. Scott Derrickson is an American director, screenwriter, and producer. Edward Davis Wood Jr. was an American filmmaker, actor, writer, producer, and director.",
+    "vanilla_time": 2.26,
+    "grag_style_time": 1.97
+  },
+  {
+    "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+    "gold": "Chief of Protocol",
+    "vanilla_answer": "The woman who portrayed Corliss Archer in the film Kiss and Tell held the government positions of United States ambassador to Ghana, United States ambassador to Czechoslovakia, and Chief of Protocol of the United States.",
+    "grag_style_answer": "The woman who portrayed Corliss Archer in the film Kiss and Tell was Shirley Temple. She was named United States ambassador to Ghana and to Czechoslovakia and also served as Chief of Protocol of the United States.",
+    "vanilla_time": 2.73,
+    "grag_style_time": 2.71
+  },
+  {
+    "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+    "gold": "Animorphs",
+    "vanilla_answer": "The science fantasy young adult series that is told in first person and features companion books narrating stories of enslaved worlds and alien species is Animorphs.",
+    "grag_style_answer": "Animorphs is a science fantasy young adult series told in first person. It has companion books, such as \"The Hork-Bajir Chronicles,\" which narrate stories of enslaved alien species like the Hork-Bajir by the Yeerks, and involve other alien species like the Andalites.",
+    "vanilla_time": 3.51,
+    "grag_style_time": 3.79
+  },
+  {
+    "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+    "gold": "no",
+    "vanilla_answer": "No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood. The Laleli Mosque is situated in Laleli, Fatih, Istanbul, while the Esma Sultan Mansion is located in the Ortaköy neighborhood of Istanbul.",
+    "grag_style_answer": "No, the Laleli Mosque is located in Laleli, Fatih, Istanbul, Turkey, while the Esma Sultan Mansion is located in the Ortaköy neighborhood of Istanbul, Turkey.",
+    "vanilla_time": 2.1,
+    "grag_style_time": 3.25
+  },
+  {
+    "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+    "gold": "Greenwich Village, New York City",
+    "vanilla_answer": "The director of the romantic comedy \"Big Stone Gap\" is based in Greenwich Village, New York City.",
+    "grag_style_answer": "The director of the romantic comedy \"Big Stone Gap,\" Adriana Trigiani, is based in Greenwich Village, New York City.",
+    "vanilla_time": 1.39,
+    "grag_style_time": 2.32
+  },
+  {
+    "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+    "gold": "YG Entertainment",
+    "vanilla_answer": "The South Korean boy group whose debut album is \"2014 S/S\" was formed by YG Entertainment.",
+    "grag_style_answer": "The South Korean boy group whose debut album is \"2014 S/S\" is WINNER, and they were formed by YG Entertainment.",
+    "vanilla_time": 1.69,
+    "grag_style_time": 4.25
+  },
+  {
+    "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+    "gold": "Eenasul Fateh",
+    "vanilla_answer": "Eenasul Fateh, also known by his stage name Aladin, was a Bangladeshi-British cultural practitioner, magician, live artist, and former international management consultant. Management consulting involves helping organizations improve their performance.",
+    "grag_style_answer": "Eenasul Fateh, also known by his stage name Aladin, was a former international management consultant. Management consulting is the practice of helping organizations improve their performance.",
+    "vanilla_time": 2.1,
+    "grag_style_time": 2.46
+  },
+  {
+    "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+    "gold": "3,677 seated",
+    "vanilla_answer": "The provided information does not specify the seating capacity of the Androscoggin Bank Colisée, where the Lewiston Maineiacs played their home games.",
+    "grag_style_answer": "The arena where the Lewiston Maineiacs played their home games, the Androscoggin Bank Colisée, can seat 3,677 people.",
+    "vanilla_time": 2.0,
+    "grag_style_time": 4.19
+  },
+  {
+    "question": "Who is older, Annie Morton or Terry Richardson?",
+    "gold": "Terry Richardson",
+    "vanilla_answer": "Terry Richardson was born on August 14, 1965, while Annie Morton was born on October 8, 1970. Therefore, Terry Richardson is older.",
+    "grag_style_answer": "Terry Richardson was born on August 14, 1965, and Annie Morton was born on October 8, 1970. Therefore, Terry Richardson is older.",
+    "vanilla_time": 1.74,
+    "grag_style_time": 2.46
+  },
+  {
+    "question": "Are Local H and For Against both from the United States?",
+    "gold": "yes",
+    "vanilla_answer": "Yes, both Local H and For Against are from the United States. Local H is an American rock band that formed in Zion, Illinois, and For Against is a United States post-punk/dream pop band from Lincoln, Nebraska.",
+    "grag_style_answer": "Yes, Local H is an American rock band from Zion, Illinois, and For Against is a United States band from Lincoln, Nebraska.",
+    "vanilla_time": 1.71,
+    "grag_style_time": 2.06
+  },
+  {
+    "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+    "gold": "Kansas Song",
+    "vanilla_answer": "The fight song of the University of Kansas is called Kansas Song (We’re From Kansas).",
+    "grag_style_answer": "The name of the fight song of the University of Kansas is Kansas Song (We’re From Kansas).",
+    "vanilla_time": 2.01,
+    "grag_style_time": 2.8
+  },
+  {
+    "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+    "gold": "David Weissman",
+    "vanilla_answer": "Based on the information provided, it is not possible to identify a screenwriter with credits for \"Evolution\" who also co-wrote a film starring Nicolas Cage and Téa Leoni. The context mentions \"The Family Man\" starring Nicolas Cage and Téa Leoni, written by David Diamond and David Weissman, but there is no information about their other credits, including \"Evolution\".",
+    "grag_style_answer": "David Weissman is a screenwriter with credits for \"Evolution\" and co-wrote \"The Family Man,\" which stars Nicolas Cage and Téa Leoni.",
+    "vanilla_time": 6.95,
+    "grag_style_time": 2.81
+  },
+  {
+    "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+    "gold": "1999",
+    "vanilla_answer": "1999",
+    "grag_style_answer": "Guns N' Roses performed a promo for the film \"End of Days\" in 1999. Arnold Schwarzenegger starred in \"End of Days\" as former New York Police Department detective Jericho Cane.",
+    "vanilla_time": 3.29,
+    "grag_style_time": 6.67
+  },
+  {
+    "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+    "gold": "no",
+    "vanilla_answer": "888 7th Avenue houses the corporate headquarters of Vornado Realty Trust. The Random House Tower is a mixed-use building that serves as the headquarters for a book publisher and includes a luxury apartment complex.",
+    "grag_style_answer": "Yes, both Random House Tower and 888 7th Avenue are used for real estate.\n\nThe Random House Tower is described as a \"52-story mixed-use tower\" that includes a \"luxury apartment complex\" and the headquarters of Random House.\n\n888 7th Avenue is described as a \"modern-style office skyscraper\" that currently houses the Vornado Realty Trust corporate headquarters.",
+    "vanilla_time": 6.84,
+    "grag_style_time": 3.29
+  },
+  {
+    "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+    "gold": "from 1986 to 2013",
+    "vanilla_answer": "The football manager who recruited David Beckham managed Manchester United from 1986 to 2013.",
+    "grag_style_answer": "Alex Ferguson, who recruited David Beckham, managed Manchester United from 1986 to 2013.",
+    "vanilla_time": 1.61,
+    "grag_style_time": 5.06
+  }
+]

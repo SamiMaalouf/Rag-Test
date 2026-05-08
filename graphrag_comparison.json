@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+    "gold": "yes",
+    "vanilla_answer": "Yes, Scott Derrickson and Ed Wood were of the same nationality. Both were American.",
+    "graph_answer": "Yes, Scott Derrickson and Ed Wood were of the same nationality. Both were American.",
+    "vanilla_time": 2.28,
+    "graph_time": 5.93
+  },
+  {
+    "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+    "gold": "Chief of Protocol",
+    "vanilla_answer": "The woman who portrayed Corliss Archer in the film Kiss and Tell held several government positions as an adult. She was named United States ambassador to Ghana and to Czechoslovakia, and also served as Chief of Protocol of the United States.",
+    "graph_answer": "The woman who portrayed Corliss Archer in the film \"Kiss and Tell\" held the government positions of United States ambassador to Ghana, United States ambassador to Czechoslovakia, and Chief of Protocol of the United States.",
+    "vanilla_time": 2.49,
+    "graph_time": 6.95
+  },
+  {
+    "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+    "gold": "Animorphs",
+    "vanilla_answer": "The science fantasy young adult series, told in first person, that has companion books narrating the stories of enslaved worlds and alien species is *Animorphs*.",
+    "graph_answer": "Animorphs is a science fantasy young adult series, told in first person, that has companion books narrating the stories of enslaved worlds and alien species.",
+    "vanilla_time": 3.27,
+    "graph_time": 7.49
+  },
+  {
+    "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+    "gold": "no",
+    "vanilla_answer": "No, the Laleli Mosque and the Esma Sultan Mansion are not located in the same neighborhood. The Laleli Mosque is situated in Laleli, Fatih, Istanbul, while the Esma Sultan Mansion is located in the Ortak\u00f6y neighborhood of Istanbul.",
+    "graph_answer": "No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood. The Laleli Mosque is situated in Laleli, Fatih, Istanbul, while the Esma Sultan Mansion is located in the Ortak\u00f6y neighborhood of Istanbul.",
+    "vanilla_time": 5.07,
+    "graph_time": 8.97
+  },
+  {
+    "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+    "gold": "Greenwich Village, New York City",
+    "vanilla_answer": "The director of the romantic comedy \"Big Stone Gap\" is based in Greenwich Village, New York City.",
+    "graph_answer": "The director of the romantic comedy \"Big Stone Gap\" is based in Greenwich Village, New York City.",
+    "vanilla_time": 1.33,
+    "graph_time": 7.44
+  },
+  {
+    "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+    "gold": "YG Entertainment",
+    "vanilla_answer": "The South Korean boy group whose debut album was \"2014 S/S\" was formed by YG Entertainment.",
+    "graph_answer": "2014 S/S is the debut album of a South Korean boy group that was formed by YG Entertainment.",
+    "vanilla_time": 1.92,
+    "graph_time": 6.02
+  },
+  {
+    "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+    "gold": "Eenasul Fateh",
+    "vanilla_answer": "Eenasul Fateh, also known by his stage name Aladin, was a Bangladeshi-British cultural practitioner, magician, live artist, and former international management consultant.",
+    "graph_answer": "The provided context does not contain information about anyone known by the stage name Aladin who helped organizations improve their performance as a consultant.",
+    "vanilla_time": 1.75,
+    "graph_time": 5.47
+  },
+  {
+    "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+    "gold": "3,677 seated",
+    "vanilla_answer": "The provided information does not specify the seating capacity of the Androscoggin Bank Colis\u00e9e, where the Lewiston Maineiacs played their home games.",
+    "graph_answer": "The provided context does not specify the seating capacity of the Androscoggin Bank Colis\u00e9e, where the Lewiston Maineiacs played their home games.",
+    "vanilla_time": 2.31,
+    "graph_time": 7.67
+  },
+  {
+    "question": "Who is older, Annie Morton or Terry Richardson?",
+    "gold": "Terry Richardson",
+    "vanilla_answer": "Terry Richardson was born on August 14, 1965, while Annie Morton was born on October 8, 1970. Therefore, Terry Richardson is older.",
+    "graph_answer": "Terry Richardson is older than Annie Morton. Terry Richardson was born on August 14, 1965, while Annie Morton was born on October 8, 1970.",
+    "vanilla_time": 1.8,
+    "graph_time": 4.55
+  },
+  {
+    "question": "Are Local H and For Against both from the United States?",
+    "gold": "yes",
+    "vanilla_answer": "Yes, both Local H and For Against are from the United States. Local H is an American rock band formed in Zion, Illinois, and For Against is a United States post-punk/dream pop band from Lincoln, Nebraska.",
+    "graph_answer": "Yes, both Local H and For Against are from the United States. Local H is an American rock band formed in Zion, Illinois, and For Against is a United States post-punk/dream pop band from Lincoln, Nebraska.",
+    "vanilla_time": 1.56,
+    "graph_time": 4.39
+  },
+  {
+    "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+    "gold": "Kansas Song",
+    "vanilla_answer": "The fight song of the university with its main campus in Lawrence, Kansas, and branch campuses in the Kansas City metropolitan area is Kansas Song (We\u2019re From Kansas).",
+    "graph_answer": "Kansas Song (We\u2019re From Kansas) is the fight song of the university.",
+    "vanilla_time": 2.44,
+    "graph_time": 20.42
+  },
+  {
+    "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and T\u00e9a Leoni?",
+    "gold": "David Weissman",
+    "vanilla_answer": "Based on the information provided, it is not possible to identify a screenwriter with credits for \"Evolution\" who also co-wrote a film starring Nicolas Cage and T\u00e9a Leoni. The provided context mentions \"The Family Man\" starring Nicolas Cage and T\u00e9a Leoni, written by David Diamond and David Weissman, but does not contain any information about a film called \"Evolution\" or its screenwriters.",
+    "graph_answer": "David Weissman co-wrote a film starring Nicolas Cage and T\u00e9a Leoni.",
+    "vanilla_time": 2.13,
+    "graph_time": 5.87
+  },
+  {
+    "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+    "gold": "1999",
+    "vanilla_answer": "Guns N' Roses performed a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective in 1999.",
+    "graph_answer": "Guns N' Roses performed a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective in 1999.",
+    "vanilla_time": 3.1,
+    "graph_time": 8.27
+  },
+  {
+    "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+    "gold": "no",
+    "vanilla_answer": "Yes, both buildings are associated with real estate. The Random House Tower functions as a mixed-use building, including a luxury apartment complex. 888 7th Avenue houses the corporate headquarters for Vornado Realty Trust.",
+    "graph_answer": "Yes, both buildings are used for real estate purposes. The Random House Tower is a mixed-use building that serves as the headquarters for a book publisher and includes a luxury apartment complex. 888 7th Avenue is an office skyscraper that houses the corporate headquarters of Vornado Realty Trust and Pershing Square Capital Management.",
+    "vanilla_time": 5.47,
+    "graph_time": 6.8
+  },
+  {
+    "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+    "gold": "from 1986 to 2013",
+    "vanilla_answer": "The football manager who recruited David Beckham managed Manchester United from 1986 to 2013.",
+    "graph_answer": "Alex Ferguson, the football manager who recruited David Beckham, managed Manchester United from 1986 to 2013.",
+    "vanilla_time": 1.78,
+    "graph_time": 4.72
+  }
+]
